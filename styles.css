@@ -33,3 +33,10 @@ a:hover{
 .logo{
     height: 100px;
 }
+
+p{
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  padding: 20px;
+}
